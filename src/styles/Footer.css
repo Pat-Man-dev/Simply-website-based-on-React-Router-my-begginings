@@ -1,0 +1,12 @@
+.footer p {
+    font-size: 14px;
+}
+
+.footer span {
+    color: #f00;
+    text-transform: none;
+}
+
+.footer .pageName {
+    text-transform: uppercase;
+}
