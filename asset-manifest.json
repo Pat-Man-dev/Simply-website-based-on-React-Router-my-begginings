@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Simply-website-based-on-React-Router-my-beginnings/static/css/main.711f854b.chunk.css",
+    "main.js": "/Simply-website-based-on-React-Router-my-beginnings/static/js/main.2feb15d1.chunk.js",
+    "main.js.map": "/Simply-website-based-on-React-Router-my-beginnings/static/js/main.2feb15d1.chunk.js.map",
+    "runtime-main.js": "/Simply-website-based-on-React-Router-my-beginnings/static/js/runtime-main.615d8e30.js",
+    "runtime-main.js.map": "/Simply-website-based-on-React-Router-my-beginnings/static/js/runtime-main.615d8e30.js.map",
+    "static/js/2.f05e063a.chunk.js": "/Simply-website-based-on-React-Router-my-beginnings/static/js/2.f05e063a.chunk.js",
+    "static/js/2.f05e063a.chunk.js.map": "/Simply-website-based-on-React-Router-my-beginnings/static/js/2.f05e063a.chunk.js.map",
+    "index.html": "/Simply-website-based-on-React-Router-my-beginnings/index.html",
+    "static/css/main.711f854b.chunk.css.map": "/Simply-website-based-on-React-Router-my-beginnings/static/css/main.711f854b.chunk.css.map",
+    "static/js/2.f05e063a.chunk.js.LICENSE.txt": "/Simply-website-based-on-React-Router-my-beginnings/static/js/2.f05e063a.chunk.js.LICENSE.txt",
+    "static/media/header1.e210d623.jpg": "/Simply-website-based-on-React-Router-my-beginnings/static/media/header1.e210d623.jpg",
+    "static/media/header2.26d6661b.jpg": "/Simply-website-based-on-React-Router-my-beginnings/static/media/header2.26d6661b.jpg",
+    "static/media/header3.1b8172a4.jpg": "/Simply-website-based-on-React-Router-my-beginnings/static/media/header3.1b8172a4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.615d8e30.js",
+    "static/js/2.f05e063a.chunk.js",
+    "static/css/main.711f854b.chunk.css",
+    "static/js/main.2feb15d1.chunk.js"
+  ]
+}
